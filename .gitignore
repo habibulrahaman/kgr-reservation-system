@@ -6,6 +6,7 @@ logs/*
 *.iml
 .project
 .settings/
+.DS_Store
 # Compiled class file
 *.class
 
