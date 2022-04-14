@@ -1,3 +1,11 @@
+.idea/
+.idea/*
+target/
+target/*
+logs/*
+*.iml
+.project
+.settings/
 # Compiled class file
 *.class
 
